@@ -20,40 +20,40 @@
           <mxGeometry x="204.5" y="50" width="175.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="177.5" y="120" width="160" height="110" as="geometry" />
+          <mxGeometry x="212.25" y="120" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-8" value="飞行路径动态展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="232.25" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-9" value="任务状态实时更新 " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="232.25" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;实时可视化模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="199.5" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="234.25" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="340.5" y="120" width="160" height="110" as="geometry" />
+          <mxGeometry x="426.5" y="120" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-12" value="任务数据展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="360.5" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="446.5" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-13" value="性能趋势分析 " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="360.5" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="446.5" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;历史数据分析模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="120" width="140" height="30" as="geometry" />
+          <mxGeometry x="436.5" y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="503.5" y="120" width="160" height="110" as="geometry" />
+          <mxGeometry x="638" y="120" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-16" value="可视化组件配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="658" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-17" value="支持报告导出 " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="658" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;自定义报告生成模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="120" width="150" height="30" as="geometry" />
+          <mxGeometry x="645" y="120" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-23" value="技术支持层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="120" height="130" as="geometry" />
@@ -110,10 +110,10 @@
           <mxGeometry x="702" y="330" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-41" value="实时飞行监控界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="407" y="50" width="175.5" height="40" as="geometry" />
+          <mxGeometry x="415" y="50" width="175.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XlSUuOUZiyemOy3n9_np-42" value="实时飞行监控界面" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="600" y="50" width="175.5" height="40" as="geometry" />
+          <mxGeometry x="630.5" y="50" width="175.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
