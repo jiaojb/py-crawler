@@ -109,7 +109,7 @@
         <mxCell id="Hq-lIqgvcT82al0O5TO0-35" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;飞行监控&lt;/span&gt;" style="rounded=0;verticalAlign=middle;textDirection=vertical-rl;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="221.5" y="700" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Hq-lIqgvcT82al0O5TO0-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;状态数据采集与存储&lt;/font&gt;" style="rounded=0;verticalAlign=middle;textDirection=vertical-rl;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Hq-lIqgvcT82al0O5TO0-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;状态数据采集&lt;/font&gt;" style="rounded=0;verticalAlign=middle;textDirection=vertical-rl;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="271.5" y="700" width="30" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Hq-lIqgvcT82al0O5TO0-37" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;用户查询与分析&lt;/font&gt;" style="rounded=0;verticalAlign=middle;textDirection=vertical-rl;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
