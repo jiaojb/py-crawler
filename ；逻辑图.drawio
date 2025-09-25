@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="第 1 页" id="2ceXIro8aANJnM2fVsff">
+    <mxGraphModel dx="1213" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-1" value="&#xa;&lt;img height=&quot;5&quot; width=&quot;5&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAABu3RFWHRteGZpbGUAJTNDbXhHcmFwaE1vZGVsJTIwZHglM0QlMjIxMjEzJTIyJTIwZHklM0QlMjI2NjklMjIlMjBncmlkJTNEJTIyMSUyMiUyMGdyaWRTaXplJTNEJTIyMTAlMjIlMjBndWlkZXMlM0QlMjIxJTIyJTIwdG9vbHRpcHMlM0QlMjIxJTIyJTIwY29ubmVjdCUzRCUyMjElMjIlMjBhcnJvd3MlM0QlMjIxJTIyJTIwZm9sZCUzRCUyMjElMjIlMjBwYWdlJTNEJTIyMSUyMiUyMHBhZ2VTY2FsZSUzRCUyMjElMjIlMjBwYWdlV2lkdGglM0QlMjI5ODAlMjIlMjBwYWdlSGVpZ2h0JTNEJTIyMTM5MCUyMiUyMG1hdGglM0QlMjIwJTIyJTIwc2hhZG93JTNEJTIyMCUyMiUzRSUzQ3Jvb3QlM0UlM0NteENlbGwlMjBpZCUzRCUyMjAlMjIlMkYlM0UlM0NteENlbGwlMjBpZCUzRCUyMjElMjIlMjBwYXJlbnQlM0QlMjIwJTIyJTJGJTNFJTNDJTJGcm9vdCUzRSUzQyUyRm14R3JhcGhNb2RlbCUzRSnSCQkAAAErSURBVHgB7NwxDsJAEARBi/8/mnjDVTvw6Ypsg0ZQHlJ+j1cSAJj4ngcgwCgQcwsEGAViboEAo0DMLRBgFIi5BQKMAjG/cYGRbOYAp8f6ArgmmwHA6bG+AK7JZgBweqwvgGuyGQCcHusL4JpsBgCnx/oCuCabAcDpsb4ArslmcAjg/NBfugDGpwEQYBSIuQUCjAIxt0CAUSDmFggwCsTcAgFGgZhb4GcB4wc7JbfA+KQAAowCMbdAgFEg5hYIMArE3AIBRoGYWyDAKBBzC3wTML7XlbkFxscOEGAUiLkFAowCMbdAgFEg5hYIMArE3AIBRoGYX7/A6Off2wBWgdj7CQOMAjG3QIBRIOYWCDAKxNwCAUaBmFsgwCgQ8xMXGL/yuznA6AkQYBSI+R8AAP//5qVXrAAAAAZJREFUAwAjgAChRAHjQAAAAABJRU5ErkJggg==&quot;&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-4" value="痛点问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="738" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-5" value="无人机集群内外部信任缺失和系统规模化瓶颈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="800" as="sourcePoint" />
+            <mxPoint x="260" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="810" as="sourcePoint" />
+            <mxPoint x="260" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-8" value="现有身份认证方案无法兼顾去中心化、轻量化与动态性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-9" value="现有可信管理方案无法兼顾去中心化与可扩展性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-11" value="基于区块链和aSVC的身份认证方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-12" value="基于动态分片和概率声誉的可信管理框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ADXoSbVa9zn0y1JZrsx-9" target="_ADXoSbVa9zn0y1JZrsx-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="880" as="sourcePoint" />
+            <mxPoint x="520" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="759.5" as="sourcePoint" />
+            <mxPoint x="440" y="759.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-15" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="759.5" as="sourcePoint" />
+            <mxPoint x="620" y="759.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="849.5" as="sourcePoint" />
+            <mxPoint x="614" y="849.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-19" value="研究目标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-20" value="实现&lt;b&gt;高效、动态&lt;/b&gt;的身份可信，为协同提供身份基石。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ADXoSbVa9zn0y1JZrsx-21" value="实现&lt;b&gt;高效、动态&lt;/b&gt;的身份可信，为协同提供身份基石。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
